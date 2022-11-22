@@ -1,6 +1,9 @@
 {
   "name": "student-statistics-back-end",
   "version": "1.0.1",
+  "engines": {
+    "node": "18.x"
+  },
   "description": "Mongoose back-end project - Develop",
   "main": "index.js",
   "license": "MIT",

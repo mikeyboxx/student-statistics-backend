@@ -1,9 +1,6 @@
 {
   "name": "student-statistics-back-end",
   "version": "1.0.1",
-  "engines": {
-    "node": "18.x"
-  },
   "description": "Mongoose back-end project - Develop",
   "main": "index.js",
   "license": "MIT",
@@ -11,7 +8,6 @@
     "start": "node index",
     "dev": "nodemon index",
     "seed": "node utils/seed",
-    "heroku-postbuild": "node utils/seed.js"
   },
   "dependencies": {
     "express": "^4.17.1",
